@@ -2,9 +2,7 @@
 
 **Computer Science graduate | AI Engineer | Agentic AI · Machine Learning · Computer Vision**
 
-I build agentic AI systems, machine learning pipelines, and retrieval-augmented conversational agents. I care about systems that reason reliably, ground their outputs in real data, and hold up on noisy, real-world inputs. My background in software quality assurance gives me an evaluation-driven approach to AI: I test how a system fails, not just how it succeeds.
-
-Located in Faisalabad, Pakistan    
+I build agentic AI systems, machine learning pipelines, and retrieval-augmented conversational agents. I care about systems that reason reliably, ground their outputs in real data, and hold up on noisy, real-world inputs. My background in software quality assurance gives me an evaluation-driven approach to AI: I test how a system fails, not just how it succeeds.  
 
 BS Computer Science, GC University Faisalabad (GPA 3.73/4.00)
 
