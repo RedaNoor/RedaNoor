@@ -89,8 +89,7 @@ Data validation and end-to-end testing for ERP/CRM systems, with 99%+ accuracy i
 ---
 
 ## 📫 Let's Connect
-
-[![LinkedIn](https://pk.linkedin.com/in/ridanoor01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rida%20Noor-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridanoor01/)
 [![Email](https://img.shields.io/badge/Email-ridanoor202%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:ridanoor202@gmail.com)
 
 I'm open to conversations about agentic AI, ML research, and graduate research opportunities.
